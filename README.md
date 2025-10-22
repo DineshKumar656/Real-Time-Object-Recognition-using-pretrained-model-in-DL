@@ -91,6 +91,12 @@ demo:
 <img width="1886" height="1059" alt="Screenshot 2025-10-22 083050" src="https://github.com/user-attachments/assets/3185e032-b62a-4e21-b28f-24c33fcaffa0" />
 <img width="1852" height="1057" alt="Screenshot 2025-10-22 083110" src="https://github.com/user-attachments/assets/a8c81f1f-db8e-47e5-8612-46311e096722" />
 <img width="1788" height="1079" alt="Screenshot 2025-10-22 083138" src="https://github.com/user-attachments/assets/41e17fdf-9864-43d3-8414-fd7793379c2b" />
+<img width="1768" height="1079" alt="Screenshot 2025-10-22 083642" src="https://github.com/user-attachments/assets/c974f4db-a134-48fe-a705-445640a1f748" />
+<img width="1779" height="1051" alt="Screenshot 2025-10-22 083925" src="https://github.com/user-attachments/assets/5b8eaa62-89f3-4e87-9e38-a15301a56081" />
+<img width="1796" height="1029" alt="Screenshot 2025-10-22 083658" src="https://github.com/user-attachments/assets/b23f6d46-222c-4f94-b5a0-144c9ef5e479" />
+
+
+
 
 
 
