@@ -1,4 +1,4 @@
-Real-Time Object Detection with OpenCV and MobileNet-SSD
+#Real-Time Object Detection with OpenCV and MobileNet-SSD
 This Python script uses OpenCV and a pre-trained MobileNet-SSD (Single Shot Detector) model to perform real-time object detection from a webcam feed. It identifies 21 common objects and draws a bounding box with a confidence label around them.
 
 (Suggestion: Add a screenshot or GIF of your script running here!)
